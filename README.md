@@ -11,4 +11,4 @@ I'm a Computer Science Student at Purdue University. Some things that I am inter
 
 ## Here are my GitHub Stats
 
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentzhao12)](https://github.com/anuraghazra/github-readme-stats)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentZhao12&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
