@@ -1,6 +1,6 @@
 # Hi I'm Vincent Zhao 🚀
 
-I'm a Computer Science Student at Purdue University. Some things that I am interested in and have been pursuing are
+I'm a Computer Science Student at Purdue University and Software Developer at the [Office of the Indiana State Chemist](https://oisc.purdue.edu/). Some things that I am interested in and have been pursuing are
 
 - Robotics 🤖
 - Full Stack Development 🖥️
